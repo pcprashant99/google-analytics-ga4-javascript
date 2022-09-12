@@ -22,6 +22,10 @@
     "React GA4",
     "Anguler GA4"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcprashant99/google-analytics-ga4-javascript.git"
+  },
   "author": "Prashant Pandey",
   "license": "MIT",
   "dependencies": {

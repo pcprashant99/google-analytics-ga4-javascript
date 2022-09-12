@@ -1,8 +1,5 @@
 {
     "compilerOptions": {
-      "types": [
-        "jest",
-      ],
       "outDir": "dist", 
       "lib": ["esnext","DOM"],
     },
